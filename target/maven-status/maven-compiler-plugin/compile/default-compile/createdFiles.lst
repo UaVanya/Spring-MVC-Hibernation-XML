@@ -1,0 +1,9 @@
+web\spring\entity\KnowledgeLevelEnum.class
+web\spring\dao\AbstractDAO.class
+web\spring\service\impl\PupilServiceImpl.class
+web\spring\entity\Pupil.class
+web\spring\service\PupilService.class
+web\spring\controller\PupilController.class
+web\spring\entity\PupilUtils.class
+web\spring\dao\impl\PupilDAOImpl.class
+web\spring\dao\PupilDAO.class

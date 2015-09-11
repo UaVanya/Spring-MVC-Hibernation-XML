@@ -1,0 +1,8 @@
+TestKnowledgeLevelEnum.class
+TestPupilController.class
+TestPupil.class
+TestPupilServiceImpl.class
+TestPupilDAOImpl.class
+TestUtilsWithMemoryDB.class
+TestAbstractDAO.class
+TestPupilUtils.class
